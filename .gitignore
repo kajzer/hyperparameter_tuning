@@ -5,3 +5,4 @@ data/*
 /auto_ml_analytics_results_CARAVAN.csv
 /auto_ml_analytics_results_MEDV.csv
 /auto_ml_analytics_results_targets.csv
+/dask-worker-space
